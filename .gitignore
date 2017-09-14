@@ -1,0 +1,8 @@
+# Binary
+/contacts-cleaner
+
+# Google Client ID
+/client_id.json
+
+# Contact delete request
+delete.txt
